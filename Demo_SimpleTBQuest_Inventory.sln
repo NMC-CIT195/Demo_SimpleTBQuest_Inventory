@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_SimpleTBQuest_Inventory.Starter", "Demo_SimpleTBQuest\Demo_SimpleTBQuest_Inventory.Starter.csproj", "{BD87AA6D-5D3E-46D9-97AD-EE12C251FA21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_SimpleTBQuest_Inventory.Starter", "Demo_SimpleTBQuest_Inventory.Starter\Demo_SimpleTBQuest_Inventory.Starter.csproj", "{BD87AA6D-5D3E-46D9-97AD-EE12C251FA21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_SimpleTBQuest_Inventory.Solution", "Demo_SimpleTBQuest_Inventory.Solution\Demo_SimpleTBQuest_Inventory.Solution.csproj", "{1B4B00BA-4127-4953-B1C4-C3AD41C0D03A}"
 EndProject
